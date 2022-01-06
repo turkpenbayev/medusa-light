@@ -1,4 +1,4 @@
-# Dockerizing Django with Celery, Redis, Gunicorn, and Nginx
+# Dockerizing Django CI/CD with Gunicorn, and Nginx
 Uses gunicorn + nginx + ci/cd.
 
 1. Build the images and run the containers:
